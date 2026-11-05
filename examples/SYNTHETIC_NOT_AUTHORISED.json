@@ -1,0 +1,216 @@
+{
+  "schema": 1,
+  "nodes": {
+    "N0": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N1": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N2": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N3": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N4": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N5": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N6": {
+      "state": "OPEN",
+      "parents": [
+        "N1",
+        "N2",
+        "N3",
+        "N5"
+      ],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N7": {
+      "state": "OPEN",
+      "parents": [
+        "N6"
+      ],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N8": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N9": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N10": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N11": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N12": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N13": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N14": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N15": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    },
+    "N16": {
+      "state": "OPEN",
+      "parents": [],
+      "owner_gate": false,
+      "owner_authorised": false,
+      "acceptance_required": true,
+      "acceptance_verdict": "NONE",
+      "commit": null,
+      "tree": null,
+      "quarantined": false,
+      "reason": ""
+    }
+  }
+}
